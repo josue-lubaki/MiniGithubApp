@@ -11,7 +11,7 @@ import SwiftUI
 struct MiniGithubAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProfileView()
         }
     }
 }
